@@ -1,0 +1,14 @@
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(83, 22, 139);
+}
+.imagecaption {
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    background-color: black;
+    font-weight: 500;
+}
+#chicken {
+    width: 400px;
+    height: auto;
+}
